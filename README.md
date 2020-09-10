@@ -1,4 +1,4 @@
-<h1>ALVIN NUTOR</h2>
+<h1>ALVIN NUTOR</h1>
 
 
 <p>My name is Alvin Snea Nutor I live in Ghana. I am a Computer Science Major at ASHESI UNIVERSITY and i am intrested in Basketball,football and Netballs.I will be graduating 2022.</p>
